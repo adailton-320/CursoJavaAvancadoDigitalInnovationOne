@@ -1,0 +1,19 @@
+ExempParadigimaFuncional/CalculoMultiplicacaoSimples.java
+ ExempParadigimaFuncional.CalculoMultiplicacaoSimples
+ExempLampda/Funcao.java
+ ExempLampda.Funcao
+ ExempLampda.Funcao1
+FuncaoAltaOrdem/ExempAltaOrdem.java
+ FuncaoAltaOrdem.Calculo
+ FuncaoAltaOrdem.ExempAltaOrdem
+Consume/exempConsume.java
+ Consume.exempConsume
+Funcao/Funcao.java
+ Funcao.Funcao
+Predicados/Predicados.java
+ Predicados.Predicados
+Suplier/ExemSuplidores.java
+ Suplier.ExemSuplidores
+ Suplier.Pessoa
+Stream/Interacoes.java
+ Stream.Interacoes
